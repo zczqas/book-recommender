@@ -20,6 +20,7 @@ ENV/
 *.csv
 *.tsv
 *.log
+*.txt
 
 # Ignore system files
 .DS_Store
